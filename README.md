@@ -1,7 +1,24 @@
-## Hi there 👋
+<h1>Hi, I'm Ruvimbo! I am a <a href="https://github.com/ruvimbo-makayi">Data Analyst</a>
+<h2>👨‍💻 Data Analysis Projects (Python and R-Programming):</h2>
+  
+  - [Tesla Time Series Linear Regression Model (Python)](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
+<h2>📊 Data Visualization Projects (Tableau):</h2>
+  
+   - [Tesla Time Series Linear Regression Model (Python)](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+
+<h3>Connect with me:</h3>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/ruvimbo-makayi-06a4a2249/
 
 <!--
-**ruvimbo-makayi/ruvimbo-makayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
