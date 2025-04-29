@@ -1,7 +1,7 @@
 <h1>Hi, I'm Ruvimbo! I am a <a href="https://github.com/ruvimbo-makayi">Data Analyst</a>
 <h2>👨‍💻 Data Analysis Projects (Python and R-Programming):</h2>
   
-  - [Tesla Time Series Linear Regression Model (Python)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Tesla Time Series Linear Regression Model (Python)](https://github.com/ruvimbo-makayi/TeslaLinearRegression-Model)
  
 <h2>📊 Data Visualization Projects (Tableau):</h2>
   
