@@ -5,7 +5,7 @@
  
 <h2>📊 Data Visualization Projects (Tableau):</h2>
   
-   - [IMDb Movies Dashboardl (Tableau)](https://github.com/ruvimbo-makayi/IMDbMoviesDashboard)
+   - [IMDb Movies Dashboard (Tableau)](https://github.com/ruvimbo-makayi/IMDbMoviesDashboard)
 
 
 
