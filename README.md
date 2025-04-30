@@ -5,7 +5,7 @@
  
 <h2>📊 Data Visualization Projects (Tableau):</h2>
   
-   - [Tesla Time Series Linear Regression Model (Python)](https://github.com/joshmadakor1/Algorithms-Practice)
+   - [IMDb Movies Dashboardl (Tableau)](https://github.com/ruvimbo-makayi/IMDbMoviesDashboard)
 
 
 
