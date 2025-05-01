@@ -2,6 +2,7 @@
 <h2>👨‍💻 Data Analysis Projects (Python and R-Programming):</h2>
   
   - [Tesla Time Series Linear Regression Model (Python)](https://github.com/ruvimbo-makayi/TeslaLinearRegression-Model)
+  - [COVID-19 Basic Analysis (Python)](https://github.com/ruvimbo-makayi/Covid19BasicAnalysis/tree/main)
  
 <h2>📊 Data Visualization Projects (Tableau):</h2>
   
