@@ -4,6 +4,7 @@
   - [Tesla Time Series Linear Regression Model (Python)](https://github.com/ruvimbo-makayi/TeslaLinearRegression-Model)
   - [Tesla Stock Price Basic Analysis (R-Programming)](https://github.com/ruvimbo-makayi/TeslaStockPriceBasicAnalysis-/tree/main)
   - [COVID-19 Basic Analysis (Python)](https://github.com/ruvimbo-makayi/Covid19BasicAnalysis/tree/main)
+  - [Loan Eligibility Prediction Using Logistic Regression](https://github.com/ruvimbo-makayi/LoanEligibilityPrediction/tree/main)
  
 <h2>📊 Data Visualization Projects (Tableau):</h2>
   
