@@ -10,7 +10,7 @@
   
    - [IMDb Movies Dashboard (Tableau)](https://github.com/ruvimbo-makayi/IMDbMoviesDashboard)
 
-
+<h2>🐬 SQL Projects (MySQL):</h2>
 
 <h3>Connect with me:</h3>
 
